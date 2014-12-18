@@ -1,7 +1,6 @@
 {
-  "name": "Skypager Build Server",
-  "description": "Runs the skypager build service which handles webhooks from Github, Dropbox, Google Drive, etc, and rebuilds your sites for you.",
-  "repository": "https://github.com/architects/skypager-build-server",
-  "logo": "https://skypager.io/logo.svg",
-  "keywords": ["middleman","heroku","skypager","static","sites"]
+    "name": "Skypager Build Server",
+    "description": "This app builds your skypager site whenever it receives webhooks from Github, Dropbox, or Amazon",
+    "website": "https://skypager.io",
+    "repository": "https://github.com/architects/skypager-build-server"
 }
